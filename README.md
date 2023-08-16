@@ -25,19 +25,19 @@ For validating the correctness, I trained the model on 4 images and here are how
 ### Training Data
 
 <p float="left">
-  <img src="/img/beagle.jpg" width="256"/>
-  <img src="/img/dalmation.jpg" width="256"/>
-  <img src="/img/golden_retriever.jpg" width="256"/>
-  <img src="/img/pembroke-welsh-corgi.jpg" width="256"/>
+  <img src="/img/beagle.jpg" width="150"/>
+  <img src="/img/dalmation.jpg" width="150"/>
+  <img src="/img/golden_retriever.jpg" width="150"/>
+  <img src="/img/pembroke-welsh-corgi.jpg" width="150"/>
 </p>
 
 ### Sampled Images
 
 <p float="left">
-  <img src="/img/beagle.jpg" width="256"/>
-  <img src="/img/dalmation.jpg" width="256"/>
-  <img src="/img/golden_retriever.jpg" width="256"/>
-  <img src="/img/pembroke-welsh-corgi.jpg" width="256"/>
+  <img src="/img/samples/sampled_image_step_38900.jpg" width="150"/>
+  <img src="/img/samples/sampled_image_step_39500.jpg" width="150"/>
+  <img src="/img/samples/sampled_image_step_39100.jpg" width="150"/>
+  <img src="/img/samples/sampled_image_step_39800.jpg" width="150"/>
 </p>
 
 ## Resources
