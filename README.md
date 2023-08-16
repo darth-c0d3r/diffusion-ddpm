@@ -1,10 +1,8 @@
 ## About
 
-This is a very simple, bare-bones implementation of Diffusion from Scratch. The objective is also as simple as it gets: train the model on a single image. I am using a very simple unet model (I use the `denoising_diffusion_pytorch` library here). Rest all diffusion related functions are written from scratch. I have referred to a fewe very good sources which I have mentioned below.
+This is a very simple, bare-bones implementation of Diffusion from Scratch. The objective is also as simple as it gets: train the model on a single image. I am using a very simple unet model (I use the `denoising_diffusion_pytorch` library here). Rest all diffusion related functions are written from scratch. I have referred to a few very good sources which I have mentioned below.
 
-Update 1: The earlier plan was to train on a single image; that was successful. Now, the goal is to train on a dataset.
-
-However, I'm just being very lazy with it. It only supports a really small ideally maybe a dozen or so images. Put them in a batch and iterate.
+Update 1: The earlier plan was to train on a single image; that was successful. Now, the goal is to train on a dataset. However, I'm just being very lazy with it. It only supports a really small ideally maybe a dozen or so images. Put them in a batch and iterate.
 
 ## Usage
 
